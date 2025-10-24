@@ -28,6 +28,8 @@ Using Selenium and BeautifulSoup, the script scrapes data from online “Best Bo
 - Author frequency & popularity across lists
 
 ## 🏁 How to Run the Project
-1. Clone this repository  
-   ```bash
-  [https://github.com/Kien123291/Books-EDA-Analysis.git]
+
+ Clone the repository  
+```bash
+git clone https://github.com/Kien123291/Books-EDA-Analysis.git
+
