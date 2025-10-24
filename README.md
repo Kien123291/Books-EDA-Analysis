@@ -30,4 +30,4 @@ Using Selenium and BeautifulSoup, the script scrapes data from online “Best Bo
 ## 🏁 How to Run the Project
 1. Clone this repository  
    ```bash
-  https://github.com/Kien123291/Books-EDA-Analysis.git
+  [https://github.com/Kien123291/Books-EDA-Analysis.git]
