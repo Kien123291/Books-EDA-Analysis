@@ -15,8 +15,6 @@ Using Selenium and BeautifulSoup, the script scrapes data from online “Best Bo
 | File | Description |
 |------|--------------|
 | `Web_scraping_best_books.ipynb` | Main notebook containing scraping + data analysis |
-| `freelancer-modified.ipynb` | Additional analysis version |
-| `freelancer_earnings_bd.csv` | Example dataset used for testing |
 
 ## 🔍 Features
 - Automated scraping setup for book info
